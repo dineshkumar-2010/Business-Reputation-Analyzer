@@ -78,9 +78,15 @@ Built and deployed using Streamlit.
 ## Folder Structure
 
 Business-Reputation-Analyzer/
+
 │── app.py
+
 │── README.md
+
 │── requirements.txt
+
 │── final_reviews_analysis.json
+
 │── cleaned_reviews.json
+
 │── business.ipynb
